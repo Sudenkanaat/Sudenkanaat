@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sude Nur Kanaat</h1>
-<h3 align="center">A passionate computer engineer student from Turkey</h3>
+<h3 align="center">A passionate computer engineer from Turkey</h3>
 
 - 📫 How to reach me **sudenrkanaat@gmail.com**
 
